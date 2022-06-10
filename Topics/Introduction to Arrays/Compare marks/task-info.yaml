@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    function getDifference(marks) {
+       console.log(...);
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16149#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 10 Jun 2022 09:36:07 UTC
+record: -1
